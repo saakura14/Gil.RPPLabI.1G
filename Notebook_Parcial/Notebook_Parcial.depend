@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1594064047 source:c:\users\valeria\desktop\notebook_parcial\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+
+1594075613 c:\users\valeria\desktop\notebook_parcial\clientes.h
+
+1594079687 source:c:\users\valeria\desktop\notebook_parcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+
+1594079687 c:\users\valeria\desktop\notebook_parcial\informes.h
+	"notebook.h"
+	"tipos.h"
+	"marcas.h"
+	"trabajos.h"
+
+1594082326 c:\users\valeria\desktop\notebook_parcial\notebook.h
+	"tipos.h"
+	"marcas.h"
+	"clientes.h"
+
+1594064046 c:\users\valeria\desktop\notebook_parcial\tipos.h
+
+1594075602 c:\users\valeria\desktop\notebook_parcial\marcas.h
+
+1594075601 c:\users\valeria\desktop\notebook_parcial\trabajos.h
+	"tipos.h"
+	"notebook.h"
+	"marcas.h"
+	"servicios.h"
+
+1594064048 c:\users\valeria\desktop\notebook_parcial\servicios.h
+
+1594064553 source:c:\users\valeria\desktop\notebook_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"marcas.h"
+	"tipos.h"
+	"servicios.h"
+	"trabajos.h"
+	"clientes.h"
+	"informes.h"
+
+1594064047 source:c:\users\valeria\desktop\notebook_parcial\marcas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marcas.h"
+
+1594064099 source:c:\users\valeria\desktop\notebook_parcial\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+
+1594064048 source:c:\users\valeria\desktop\notebook_parcial\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+
+1594064046 source:c:\users\valeria\desktop\notebook_parcial\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
+1594064104 source:c:\users\valeria\desktop\notebook_parcial\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajos.h"
+	"notebook.h"
+
+1594079687 source:c:\users\valeria\desktop\notebook_parcial\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"utn.h"
+
+1594079687 c:\users\valeria\desktop\notebook_parcial\utn.h
+
